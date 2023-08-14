@@ -22,10 +22,10 @@ Internet calls me Ashwani Singh :smile:
 <a href="https://www.linkedin.com/in/ashwani-singh-75b69a252/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="35px" height="35px"></a></image>
 
 ### :fire: My Stats :
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-ashwani-singh&theme=dark&background=000000&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshwaniSingh72-singh&theme=dark&background=000000&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Dev-ashwani-singh&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AshwaniSingh72&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-ashwani-singh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwaniSingh72h&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/TRUST_ON_YOUR_ABILITY-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
